@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASG-PRN\\FUUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\repository\\giangvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\repository\\giangvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\giangvienview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\giangvienview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\sinhvienview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\sinhvienview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\repository\\sinhvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\repository\\sinhvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\repository\\igiangvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\repository\\igiangvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\service\\giangvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\service\\giangvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\giangvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\giangvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\sinhvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\sinhvienview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\service\\sinhvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\service\\sinhvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\repository\\isinhvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\repository\\isinhvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|e:\\asg-prn\\fuuniversity\\fuuniversity\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C313DE4D-221A-4A46-90A2-DB99D2A618E1}|FUUniversity\\FUUniversity.csproj|solutionrelative:fuuniversity\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FUUniversity\\MainWindow.xaml",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\MainWindow.xaml",
+              "RelativeToolTip": "FUUniversity\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T00:52:22.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FUUniversity\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAArwC8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiangVienRepository.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\GiangVienRepository.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\repository\\GiangVienRepository.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\GiangVienRepository.cs",
+              "RelativeToolTip": "FUUniversity\\repository\\GiangVienRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAvwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GiangVienService.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\service\\GiangVienService.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\service\\GiangVienService.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\service\\GiangVienService.cs",
+              "RelativeToolTip": "FUUniversity\\service\\GiangVienService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGiangVienRepository.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\IGiangVienRepository.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\repository\\IGiangVienRepository.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\IGiangVienRepository.cs",
+              "RelativeToolTip": "FUUniversity\\repository\\IGiangVienRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVienRepository.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\SinhVienRepository.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\repository\\SinhVienRepository.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\SinhVienRepository.cs",
+              "RelativeToolTip": "FUUniversity\\repository\\SinhVienRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVienView.xaml.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\SinhVienView.xaml.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\SinhVienView.xaml.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\SinhVienView.xaml.cs",
+              "RelativeToolTip": "FUUniversity\\SinhVienView.xaml.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiangVienView.xaml.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\GiangVienView.xaml.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\GiangVienView.xaml.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\GiangVienView.xaml.cs",
+              "RelativeToolTip": "FUUniversity\\GiangVienView.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiangVienView.xaml",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\GiangVienView.xaml",
+              "RelativeDocumentMoniker": "FUUniversity\\GiangVienView.xaml",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\GiangVienView.xaml",
+              "RelativeToolTip": "FUUniversity\\GiangVienView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T00:52:22.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SinhVienView.xaml",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\SinhVienView.xaml",
+              "RelativeDocumentMoniker": "FUUniversity\\SinhVienView.xaml",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\SinhVienView.xaml",
+              "RelativeToolTip": "FUUniversity\\SinhVienView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T00:52:22.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SinhVienService.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\service\\SinhVienService.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\service\\SinhVienService.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\service\\SinhVienService.cs",
+              "RelativeToolTip": "FUUniversity\\service\\SinhVienService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\App.xaml",
+              "RelativeDocumentMoniker": "FUUniversity\\App.xaml",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\App.xaml",
+              "RelativeToolTip": "FUUniversity\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T00:52:22.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\App.xaml.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\App.xaml.cs",
+              "RelativeToolTip": "FUUniversity\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISinhVienRepository.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\ISinhVienRepository.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\repository\\ISinhVienRepository.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\repository\\ISinhVienRepository.cs",
+              "RelativeToolTip": "FUUniversity\\repository\\ISinhVienRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvw8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GiangVien.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\models\\GiangVien.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\models\\GiangVien.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\models\\GiangVien.cs",
+              "RelativeToolTip": "FUUniversity\\models\\GiangVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "FUUniversity\\models\\SinhVien.cs",
+              "ToolTip": "E:\\ASG-PRN\\FUUniversity\\FUUniversity\\models\\SinhVien.cs",
+              "RelativeToolTip": "FUUniversity\\models\\SinhVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:52:22.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
